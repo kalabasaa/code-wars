@@ -6,6 +6,7 @@ This repository serves as documentation of my solutions to coding challenges fro
 
 - [You Can't Code Under Pressure #1](https://www.codewars.com/kata/search/?q=You%20Can%27t%20Code%20Under%20Pressure%20%231)
 - [Sum without Highest and Lowest Number](https://www.codewars.com/kata/search/?q=Sum%20without%20Highest%20and%20Lowest%20Number)
+- [Sum of odd numbers](https://www.codewars.com/kata/search/?q=Sum%20of%20odd%20numbers)
 
 ## LeetCode
 
